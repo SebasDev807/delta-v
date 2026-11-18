@@ -1,6 +1,6 @@
-# Orbital 2D
+# Delta V
 
-**Orbital 2D** es un simulador de mecánica orbital bidimensional desarrollado con **TypeScript, Vite y HTML Canvas 2D**. Su objetivo es explorar el movimiento gravitacional mediante cálculos físicos y visualizaciones interactivas, manteniendo separadas la física y la representación gráfica.
+**Delta V** es un simulador de mecánica orbital bidimensional desarrollado con **TypeScript, Vite y HTML Canvas 2D**. Su objetivo es explorar el movimiento gravitacional mediante cálculos físicos y visualizaciones interactivas, manteniendo separadas la física y la representación gráfica.
 
 > **Estado:** prototipo funcional en desarrollo. La primera escena implementada es un sistema Tierra–Luna circular idealizado. No es todavía una herramienta de navegación espacial ni un modelo astronómico de efemérides.
 

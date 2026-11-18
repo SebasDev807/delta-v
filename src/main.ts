@@ -53,7 +53,7 @@ function main(): void {
     <!-- Encabezado flotante -->
     <header class="floating-header">
       <div>
-        <h1>Orbital 2D</h1>
+        <h1>Delta V</h1>
         <p>Laboratorio de mecánica orbital</p>
       </div>
 
@@ -653,7 +653,6 @@ function main(): void {
   let accumulator = 0;
   let lastFrameTime = performance.now();
 
-  let zoom = 1;
   let initialEnergy = totalMechanicalEnergy(
     simulation.bodies
   );

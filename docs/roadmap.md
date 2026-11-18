@@ -1,4 +1,4 @@
-# Hoja de ruta de Orbital 2D
+# Hoja de ruta de Delta V
 
 > Este documento refleja el alcance acordado hasta ahora. Las funcionalidades futuras son **propuestas**, no características ya implementadas ni fechas comprometidas.
 
